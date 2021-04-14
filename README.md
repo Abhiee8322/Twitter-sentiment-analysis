@@ -31,3 +31,5 @@
 ##### 14. Gaussian model.
 ##### 15. Random forest model.
 
+### In this project I have provided the code file and as well the dataset. 
+### For live tweets extraction one has to fill their own twitter credentials.
